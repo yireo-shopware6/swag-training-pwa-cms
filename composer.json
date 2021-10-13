@@ -1,0 +1,17 @@
+{
+  "name": "swag-training/shopware6-pwa-cms",
+  "description": "Shopware 6 plugin demonstrating the integration between the CMS and Shopware PWA",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SwagTraining\\PwaCms\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "SwagTraining\\PwaCms\\SwagTrainingPwaCms",
+    "label": {
+      "en-GB": "Shopware 6 plugin demonstrating the integration between the CMS and Shopware PWA"
+    }
+  }
+}

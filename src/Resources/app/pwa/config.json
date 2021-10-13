@@ -1,0 +1,8 @@
+{
+    "slots": [
+        {
+            "name": "account-cms-page",
+            "file": "account-cms-page.vue"
+        }
+    ]
+}
